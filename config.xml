@@ -10,8 +10,8 @@
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
-    <access origin="http://"/>
-    <allow-navigation href="http://" />
+    <access origin="*"/>
+    <allow-navigation href="*" />
   
     <content src="index.html"/>
     <icon src="icon.png"/>
