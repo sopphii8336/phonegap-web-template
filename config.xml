@@ -6,11 +6,12 @@
     <name>我家網</name>
     <description>您買屋賣屋的好夥伴</description>
     <author href="http://www.myhomes.com.tw/m/" email="myhomes.management@gmail.com">我家網</author>
+    
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
-    <access origin="*"/>
-    <allow-navigation href="*" />
+    <access origin="http://"/>
+    <allow-navigation href="http://" />
   
     <content src="index.html"/>
     <icon src="icon.png"/>
