@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_20180703" version="1.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6378" version="1.0.1">
     
-    <name>我家網</name>
+    <name>新竹謝老闆</name>
     <description>您買屋賣屋的好夥伴</description>
-    <author href="http://www.myhomes.com.tw/m/" email="myhomes.management@gmail.com">我家網</author>
+    <author href="http://www.myhomes.com.tw/m/" email="myhomes.management@gmail.com">新竹謝老闆</author>
     
     <!-- Configuration End -->
   
@@ -17,7 +17,7 @@
     <icon src="icon.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
-    <preference name="phonegap-version" value="cli-6.5.0" />
+    <preference name="phonegap-version" value="cli-8.0.0" />
     
     <!-- 防止太多權限 -->
     <preference name="permissions" value="none" />
